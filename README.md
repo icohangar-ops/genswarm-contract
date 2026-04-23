@@ -1,5 +1,11 @@
 # GenSwarm — Stigmergic Agent Coordination Protocol on GenLayer
 
+
+## Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
+> _Generated with [demo-video-generator](https://github.com/zan-maker/demo-video-generator)_
 > **The missing coordination layer for the agentic economy.**
 
 <p align="center">
