@@ -1,5 +1,13 @@
 # GenSwarm — Stigmergic Agent Coordination Protocol on GenLayer
 
+<p align="center">
+  <img src="https://img.shields.io/badge/GenLayer-Bradbury_Testnet-8B5CF6" alt="GenLayer" />
+  <img src="https://img.shields.io/badge/Status-Deployed-brightgreen" alt="Deployed" />
+  <img src="https://img.shields.io/badge/Coordination-Zero_Token-green" alt="Zero Token" />
+  <img src="https://img.shields.io/badge/Speed-5.86x_Faster-blue" alt="5.86x Faster" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT" />
+</p>
+
 
 ## Demo
 
