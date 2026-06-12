@@ -193,7 +193,7 @@ emit_help_wanted(task_id: str, skills_needed: str) -> None
 | **Consensus** | Optimistic Democracy + Equivalence Principle |
 | **Coordination** | Stigmergy (TEMM1E-inspired pheromone signals) |
 | **Consensus Validation** | Adversarial AI debate (CONSENSAGENT/ACL 2025) |
-| **Original Platform** | [Cubiczan Swarm Intelligence](https://github.com/zan-maker/cubiczan-swarm-pack) |
+| **Original Platform** | [Cubiczan Swarm Intelligence](https://github.com/icohangar-ops/cubiczan-swarm-pack) |
 
 ---
 
@@ -258,7 +258,7 @@ echo "YOUR_PASS" | npx genlayer deploy --contract contracts/genswarm.py
 
 ## Built On
 
-- [Cubiczan Swarm Intelligence Platform](https://github.com/zan-maker/cubiczan-swarm-pack) — The original stigmergy + PARL + adversarial consensus engine
+- [Cubiczan Swarm Intelligence Platform](https://github.com/icohangar-ops/cubiczan-swarm-pack) — The original stigmergy + PARL + adversarial consensus engine
 - [GenLayer](https://genlayer.com) — The AI-native blockchain with Optimistic Democracy consensus
 - [TEMM1E](https://github.com/nagisanzenin/temm1e) (MIT License) — Stigmergic coordination inspiration
 - [CONSENSAGENT](https://arxiv.org/abs/2505.14499) (ACL 2025) — Adversarial AI consensus methodology
